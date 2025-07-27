@@ -42,7 +42,8 @@ Verification is critical in digital circuit design. A **2:4 decoder** converts 2
 The decoder was successfully verified for all input combinations (00 to 11). Simulation waveforms confirm correct output behavior. UVM helped reduce verification time and improved coverage of edge cases.
 
  **Waveform Example**  
-![Waveform](outputs/waveform.png)
+<img width="722" height="146" alt="image" src="https://github.com/user-attachments/assets/3b7092f1-47c1-4190-9814-417a7672e2fc" />
+
 
 ---
 
