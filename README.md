@@ -31,8 +31,6 @@ Verification is critical in digital circuit design. A **2:4 decoder** converts 2
 - `monitor.sv` – Observes outputs
 - `scoreboard.sv` – Compares expected vs actual
 - `agent.sv` – Binds monitor, driver, generator
-- `env.sv` – Top-level test environment
-- `base_test.sv` – Test scenario setup
 - `top_tb.sv` – Testbench instantiation
 
 ---
